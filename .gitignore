@@ -1,0 +1,6 @@
+# 项目排除路径
+/ssm_travle_dao/target/
+/ssm_travle_domain/target/
+/ssm_travle_service/target/
+/ssm_travle_web/target/
+/travle_ssm_utils/target/
